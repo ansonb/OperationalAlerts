@@ -1,7 +1,7 @@
 Requirements
 ===================
-Python 3
-mongodb
+1 Python 3
+2 mongodb
 
 Installation
 ===================
